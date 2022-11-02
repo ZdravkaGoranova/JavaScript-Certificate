@@ -1,2 +1,2 @@
-# JavaScript-Advance-September-2022
+#  Certificate - JavaScript
 Course
